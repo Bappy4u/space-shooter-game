@@ -1,0 +1,12 @@
+Task breakdown:
+
+	* Set camera, light, scene with background and space player object
+	* Add shoot functionality in the z direction
+	* Shoot functionality by left clicks from the player object
+	* Player movement functionality by left and right arrow
+	* Create Enemy object using buffer geometry
+	* Generate random enemy objects
+	* Random enemy objects comming from 
+	* Random 3000-3500 enemy space ships using  buffer geometry
+	* Collision detection between two objects
+	* dissapear the both objects enemy space and bullet
