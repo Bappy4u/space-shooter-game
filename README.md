@@ -58,5 +58,5 @@ This project was created by [Najmul H. Bappy](https://github.com/Bappy4u/).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](https://github.com/Bappy4u/space-shooter-game) file for details.
 
